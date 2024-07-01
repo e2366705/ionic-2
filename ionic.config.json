@@ -1,0 +1,8 @@
+{
+  "name": "ionic2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "d5674943"
+}
